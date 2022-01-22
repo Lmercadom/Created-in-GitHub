@@ -1,0 +1,1 @@
+Darwin Luisas-MacBook-Pro.local 19.6.0 Darwin Kernel Version 19.6.0: Thu Oct 29 22:56:45 PDT 2020; root:xnu-6153.141.2.2~1/RELEASE_X86_64 x86_64
